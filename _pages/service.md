@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /service/
-title: 
+title: service
 description: 
 nav: true
 nav_order: 7
 ---
+<!-- # service -->
 
 ## Professional Service
 ECIR 2026, *Proceeding Chair*
