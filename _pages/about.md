@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.datascience.ch/'>Swiss Data Science Center, ETH Zurich</a>
+subtitle: <a href='https://www.datascience.ch/'>ETH Zurich</a>, yfyuan01@gmail.com
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>yfyuan01@gmail.co,</p>
+    <p>Swiss Data Science Center</p>
+    <p>ETH Zurich</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,6 +31,6 @@ I am currently a postdoc fellow at Swiss Data Science Center, ETH. I also serve 
 Currently, my research interest focuses on multimodal information retrieval and text mining problems, including social media based fashion analysis, multimodal dialogue systems, etc. I'm also interested in other aspects of NLP and IR in the multimodal domain.
 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
 
 
