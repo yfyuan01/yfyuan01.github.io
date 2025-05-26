@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-two-papers-accepted-at-emnlp-2024",
+          title: 'Two papers accepted at EMNLP 2024.',
           description: "",
           section: "News",},{id: "news-our-tutorial-query-understanding-in-llm-based-conversational-information-seeking-accepted-at-both-sigir-and-www",
           title: 'Our tutorial “Query Understanding in LLM-based Conversational Information Seeking” accepted at both SIGIR...',
