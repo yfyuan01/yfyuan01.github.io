@@ -34,7 +34,7 @@ EACL 2024, *Reviewer*
 
 WWW 2022, *Reviewer* 
 
-ACL 2022, **Reviewer*
+ACL 2022, *Reviewer*
 
 ACM Computing Surverys 2022, *Reviewer* 
 
