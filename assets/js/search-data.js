@@ -502,11 +502,18 @@ ninja.data = [{
           window.open("mailto:%79%66%79%75%61%6E%30%31@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/yfyuan01# your GitHub user name", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/yifei-yuan-97741b1a3", "_blank");
         },
       },{
         id: 'social-scholar',
