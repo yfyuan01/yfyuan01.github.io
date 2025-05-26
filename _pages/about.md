@@ -34,7 +34,6 @@ latest_posts:
 **Should you be interested in any of these topics, I'm more than happy to have a chat:)**
 
 
-{% bibliography --query @*[keywords~=selected] %}
 
 
 
