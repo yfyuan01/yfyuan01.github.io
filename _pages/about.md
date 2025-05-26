@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Swiss Data Science Center</p>
+    <p>Wasserwerkstrasse 10</p>
     <p>ETH Zurich</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -30,7 +31,7 @@ latest_posts:
 
 **Research**: My research interests lie at the intersection of natural language processing and information retrieval, with a particular emphasis on social science applications and multimodal analysis involving both text and images. My key areas of focus include social media mining, multimodal conversational systems, agentic AI, political NLP, and broader topics across the NLP and IR landscape. I'm also very interested in cognitive science and its intersections with artificial intelligence, particularly in understanding how human cognition can inform the development of more interpretable, adaptable, and human-aligned AI systems. 
 
-**Should you be interested in any of these topics, I'm more than happy to have a chat.**
+**Should you be interested in any of these topics, I'm more than happy to have a chat:)**
 
 
 
