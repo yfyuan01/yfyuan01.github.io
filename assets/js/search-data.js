@@ -488,11 +488,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=2LQnqqAAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://twitter.com/yfyuan775# your X handle", "_blank");
         },
       },{
       id: 'light-theme',
