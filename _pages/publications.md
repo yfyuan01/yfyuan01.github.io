@@ -6,6 +6,8 @@ description: publications.
 nav: true
 nav_order: 2
 ---
+Most recent list at [Google scholar](https://scholar.google.com/citations?user=2LQnqqAAAAAJ). * denote equal contribution.
+
 
 <!-- _pages/publications.md -->
 
