@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.datascience.ch/'>ETH Zurich</a>, yfyuan01@gmail.com
+subtitle: <a href='https://ethz.ch/en.html'>ETH Zurich</a>, yfyuan01@gmail.com
 
 profile:
   align: right
