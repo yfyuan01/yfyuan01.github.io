@@ -412,14 +412,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-two-papers-accepted-at-emnlp-2024",
-          title: 'Two papers accepted at EMNLP 2024.',
-          description: "",
-          section: "News",},{id: "news-our-tutorial-query-understanding-in-llm-based-conversational-information-seeking-accepted-at-both-sigir-and-www",
+            },},{id: "news-our-tutorial-query-understanding-in-llm-based-conversational-information-seeking-accepted-at-both-sigir-and-www",
           title: 'Our tutorial “Query Understanding in LLM-based Conversational Information Seeking” accepted at both SIGIR...',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-at-iclr-world-model-workshop",
           title: 'One paper accepted at ICLR World Model workshop.',
+          description: "",
+          section: "News",},{id: "news-i-m-honored-to-serve-as-the-publicity-co-chair-at-ecir-2026",
+          title: 'I’m honored to serve as the publicity co-chair at ECIR 2026.',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-emnlp-2025",
           title: 'Two papers accepted at EMNLP 2025.',
