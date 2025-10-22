@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-15 
+date: 2025-04-17
 inline: true
 related_posts: false
 ---
 
-Two papers accepted at EMNLP 2024.
+Our tutorial "Query Understanding in LLM-based Conversational Information Seeking" accepted at both SIGIR and WWW.

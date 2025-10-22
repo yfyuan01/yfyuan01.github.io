@@ -9,7 +9,7 @@ nav_order: 7
 <!-- # service -->
 
 ## Professional Service
-ECIR 2026, *Proceeding Chair*
+ECIR 2026, *Publicity Co-Chair*
 
 EMNLP 2025, *Area Chair*
 
