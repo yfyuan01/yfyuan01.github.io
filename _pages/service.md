@@ -11,6 +11,8 @@ nav_order: 7
 ## Professional Service
 ECIR 2026, *Proceeding Chair*
 
+EMNLP 2025, *Area Chair*
+
 ACL 2025, *Area Chair*
 
 SIGKDD 2025, *Program Committee* 
