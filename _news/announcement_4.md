@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-22 
+date: 2024-11-15 
 inline: true
 related_posts: false
 ---
 
-Two papers accepted at EMNLP 2025.
+Two papers accepted at EMNLP 2024.
