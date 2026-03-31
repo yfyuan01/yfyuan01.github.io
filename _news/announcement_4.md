@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-17
+date: 2025-09-10
 inline: true
 related_posts: false
 ---
 
-Our tutorial "Query Understanding in LLM-based Conversational Information Seeking" accepted at both SIGIR and WWW.
+I’m honored to serve as the publicity co-chair at ECIR 2026.

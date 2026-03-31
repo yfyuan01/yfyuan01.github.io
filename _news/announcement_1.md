@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-22 
+date: 2026-3-31 
 inline: true
 related_posts: false
 ---
 
-Two papers accepted at EMNLP 2025.
+One papers accepted at TOIS 2026.

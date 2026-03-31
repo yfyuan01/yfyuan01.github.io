@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-10 
+date: 2026-03-19 
 inline: true
 related_posts: false
 ---
 
-I'm honored to serve as the publicity co-chair at ECIR 2026.
+Two papers (1 main + 1 workshop) accepted at ICLR 2026.

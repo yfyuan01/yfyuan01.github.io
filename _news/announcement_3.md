@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-12 
+date: 2025-10-22 
 inline: true
 related_posts: false
 ---
 
-One paper accepted at ICLR World Model workshop.
+Two papers accepted at EMNLP 2025.
