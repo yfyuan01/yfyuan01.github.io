@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Swiss Data Science Center</p>
-    <p>Wasserwerkstrasse 10</p>
+    <p>Andreasstrasse 5</p>
     <p>ETH Zurich</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
