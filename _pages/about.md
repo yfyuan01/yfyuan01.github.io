@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**About me**: I am currently a postdoc researcher at [Swiss Data Science Center, ETH](https://www.datascience.ch/) (working closely with EPFL and UZH). I also serve as a guest researcher at [Coastal NLP group](https://coastalcph.github.io/) at University of Copenhagen. Previously, I obtained my PhD degree at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai in 2023.  
+**About me**: I am currently a postdoc researcher at [Swiss Data Science Center, ETH](https://www.datascience.ch/) and an incoming lecturer (assistant professor) at University of Bristol. I also serve as a guest researcher at [Coastal NLP group](https://coastalcph.github.io/) at University of Copenhagen. Previously, I obtained my PhD degree at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai in 2023.  
 
 **Research**: My research lies broadly in Natural Language Processing (NLP), with a focus on LLMs, multimodal AI, and agentic AI. I am interested in developing models that integrate language, vision, and other modalities, and AI agents that interact with users, tools, and dynamic environments.
 
